@@ -4,7 +4,7 @@
 
 # Вопрос 1: Примеры облачных IDE.
 cloud_ides:
-	"Примеры облачных IDE:"
+	<br>"Примеры облачных IDE:"
 	"  - Repl.it"
 	"  - Gitpod"
 	"  - GitHub Codespaces"
